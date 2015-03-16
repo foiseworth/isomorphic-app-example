@@ -1,0 +1,23 @@
+{
+  "name": "react-isomorphic-example",
+  "version": "0.1.0",
+  "description": "A small demo of how to setup react to do server/client rendering.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Herrington",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.12.2",
+    "node-jsx": "^0.12.4",
+    "express": "^4.11.1",
+    "gulp": "^3.8.10",
+    "gulp-util": "^3.0.2",
+    "reactify": "^1.0.0",
+    "watchify": "^2.3.0",
+    "browserify": "^8.1.1",
+    "vinyl-source-stream": "^1.0.0",
+    "request": "^2.51.0"
+  }
+}
